@@ -1,0 +1,17 @@
+{
+  "name": "লিখনটুলস",
+  "short_name": "লিখনটুলস",
+  "description": "বাংলা টাইপিং, কনভার্টার, ইমেজ টুলস, বয়স ও CGPA ক্যালকুলেটর",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "351x313",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

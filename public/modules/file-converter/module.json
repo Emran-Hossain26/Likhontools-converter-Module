@@ -1,0 +1,43 @@
+{
+  "id": "file-converter",
+  "slug": "file-converter",
+  "version": "1.0.0",
+  "enabled": false,
+  "category": "converter",
+  "icon": "File",
+  "name": {
+    "bn": "ফাইল কনভার্টার",
+    "en": "File Converter"
+  },
+  "description": {
+    "bn": "ফাইল কনভার্ট করুন - PDF, Word, Excel, ইমেজ এবং আরও অনেক।",
+    "en": "Convert files - PDF, Word, Excel, images and more."
+  },
+  "keywords": [
+    "converter",
+    "pdf",
+    "word",
+    "excel",
+    "image"
+  ],
+  "runtime": "client",
+  "accept": [
+    ".pdf",
+    ".docx",
+    ".xlsx",
+    ".jpg",
+    ".png"
+  ],
+  "maxFileSizeMB": 20,
+  "libs": [],
+  "seo": {
+    "title": {
+      "bn": "ফাইল কনভার্টার - লিখন টুলস",
+      "en": "File Converter - Likhon Tools"
+    },
+    "description": {
+      "bn": "ফাইল কনভার্ট করুন - PDF, Word, Excel, ইমেজ এবং আরও অনেক। সব কাজ আপনার ব্রাউজারেই হয়।",
+      "en": "Convert files - PDF, Word, Excel, images and more. Everything runs in your browser."
+    }
+  }
+}

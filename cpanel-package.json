@@ -1,0 +1,11 @@
+{
+  "name": "likhon-tools",
+  "version": "1.0.0",
+  "main": "server/index.mjs",
+  "scripts": {
+    "start": "node server/index.mjs"
+  },
+  "dependencies": {
+    "h3": "^1.12.0"
+  }
+}

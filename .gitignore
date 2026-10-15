@@ -1,0 +1,36 @@
+# Dependencies
+node_modules
+
+# Build / framework output
+dist
+dist-ssr
+.output
+.nitro
+.vinxi
+.tanstack
+.wrangler
+
+# Environment (keep .env.example)
+.env
+.env.*
+!.env.example
+
+# Logs and OS junk
+logs
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Test / coverage
+coverage
+*.lcov
+
+# Editor caches
+.idea
+*.swp
+*.swo
+
+# Leftover empty clone that Windows may lock
+/Likhontools-converter-Module/

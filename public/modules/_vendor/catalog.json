@@ -1,0 +1,56 @@
+{
+  "pdf-lib": {
+    "version": "1.17.1",
+    "type": "umd",
+    "global": "PDFLib",
+    "file": "pdf-lib/pdf-lib.min.js"
+  },
+  "pdfjs": {
+    "version": "4.8.69",
+    "type": "esm",
+    "file": "pdfjs/pdf.min.mjs",
+    "worker": "pdfjs/pdf.worker.min.mjs"
+  },
+  "jszip": {
+    "version": "3.10.1",
+    "type": "umd",
+    "global": "JSZip",
+    "file": "jszip/jszip.min.js"
+  },
+  "mammoth": {
+    "version": "1.8.0",
+    "type": "umd",
+    "global": "mammoth",
+    "file": "mammoth/mammoth.browser.min.js"
+  },
+  "xlsx": {
+    "version": "0.18.5",
+    "type": "umd",
+    "global": "XLSX",
+    "file": "xlsx/xlsx.full.min.js"
+  },
+  "jspdf": {
+    "version": "2.5.2",
+    "type": "umd",
+    "global": "jspdf",
+    "file": "jspdf/jspdf.umd.min.js"
+  },
+  "jspdf-autotable": {
+    "version": "3.8.4",
+    "type": "umd",
+    "global": "jspdf",
+    "file": "jspdf/jspdf.plugin.autotable.min.js",
+    "after": "jspdf"
+  },
+  "docx": {
+    "version": "8.5.0",
+    "type": "umd",
+    "global": "docx",
+    "file": "docx/index.iife.js"
+  },
+  "noto-sans-bengali": {
+    "version": "2.004",
+    "type": "font",
+    "file": "fonts/NotoSansBengali-Regular.ttf"
+  }
+}

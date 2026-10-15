@@ -1,0 +1,3 @@
+- [ ] Create the reference-style green homepage with pen brand symbol.
+- [ ] Keep all existing tools accessible and preserve theme selection.
+- [ ] Verify homepage navigation and theme switching.

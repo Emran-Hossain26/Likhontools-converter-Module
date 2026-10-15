@@ -1,0 +1,36 @@
+{
+  "id": "hello-world",
+  "slug": "hello-world",
+  "version": "1.0.0",
+  "enabled": false,
+  "category": "document",
+  "icon": "File",
+  "name": {
+    "bn": "হ্যালো ওয়ার্ল্ড",
+    "en": "Hello World"
+  },
+  "description": {
+    "bn": "মডিউল সিস্টেম টেস্ট টুল",
+    "en": "Module system test tool"
+  },
+  "keywords": [
+    "test",
+    "demo"
+  ],
+  "runtime": "client",
+  "accept": [
+    ".txt"
+  ],
+  "maxFileSizeMB": 10,
+  "libs": [],
+  "seo": {
+    "title": {
+      "bn": "হ্যালো ওয়ার্ল্ড - লিখন টুলস",
+      "en": "Hello World - Likhon Tools"
+    },
+    "description": {
+      "bn": "মডিউল সিস্টেম টেস্ট করার জন্য একটি সাধারণ টুল",
+      "en": "A simple tool to test the module system"
+    }
+  }
+}

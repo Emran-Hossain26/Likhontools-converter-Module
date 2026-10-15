@@ -1,0 +1,36 @@
+{
+  "id": "your-tool-slug",
+  "slug": "your-tool-slug",
+  "version": "1.0.0",
+  "enabled": true,
+  "category": "document",
+  "icon": "File",
+  "name": {
+    "bn": "আপনার টুলের নাম",
+    "en": "Your Tool Name"
+  },
+  "description": {
+    "bn": "টুলের সংক্ষিপ্ত বর্ণনা বাংলায়",
+    "en": "Short description of your tool in English"
+  },
+  "keywords": [
+    "tool",
+    "converter"
+  ],
+  "runtime": "client",
+  "accept": [
+    ".txt"
+  ],
+  "maxFileSizeMB": 10,
+  "libs": [],
+  "seo": {
+    "title": {
+      "bn": "আপনার টুলের নাম - লিখন টুলস",
+      "en": "Your Tool Name - Likhon Tools"
+    },
+    "description": {
+      "bn": "টুলের বিস্তারিত বর্ণনা বাংলায়",
+      "en": "Detailed description of your tool in English"
+    }
+  }
+}
